@@ -31,7 +31,7 @@ export const Memo = () => {
             id: e.data.id,
             action: "MICROCMS_UPDATE_STYLE",
             message: {
-              height: 420,
+              height: 220,
             },
           },
           microcmsAdminUrl
